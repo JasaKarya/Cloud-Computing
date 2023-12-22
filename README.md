@@ -1,7 +1,3 @@
-Untuk membuat API Documentation pada `README.md`, Anda perlu menjelaskan endpoint-endpoint yang telah Anda buat, metode HTTP yang digunakan, serta format respons yang dihasilkan. Berikut adalah contoh dokumentasi untuk API yang Anda berikan:
-
----
-
 # API Documentation for app.py
 
 ## Deskripsi
